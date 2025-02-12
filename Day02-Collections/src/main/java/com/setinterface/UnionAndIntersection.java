@@ -27,6 +27,5 @@ public class UnionAndIntersection {
         System.out.println("Union: "+getUnion(set1,set2));
         System.out.println("Intersection: "+getIntersection(set1,set2));
 
-
     }
 }
