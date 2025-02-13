@@ -1,4 +1,4 @@
-package com.insurancepolicy;
+package com.insurancepolicyset;
 
 import java.time.LocalDate;
 
