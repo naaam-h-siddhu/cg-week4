@@ -1,4 +1,4 @@
-package com.exception.exception.multiplecatch;
+package com.exception.multiplecatch;
 
 public class Main {
     public static void main(String[] args) {
