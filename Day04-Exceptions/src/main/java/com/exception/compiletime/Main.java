@@ -1,4 +1,4 @@
-package com.exceptions.compiletime;
+package com.exception.compiletime;
 
 import java.io.FileReader;
 import java.io.IOException;
